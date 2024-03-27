@@ -2,12 +2,15 @@
 
 DisTube fork of `ytdl-core`. This fork is dedicated to fixing bugs and adding features that are not merged into the original repo as soon as possible.
 
+-NeuNoRo Fork  
+I do not own this project, this is a fork intended to use my changes more easily in my project. All rights are reserved to [Skick](https://github.com/skick1234)
+
 <a href='https://ko-fi.com/skick' target='_blank'><img height='48' src='https://storage.ko-fi.com/cdn/kofi3.png' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Installation
 
 ```bash
-npm install @distube/ytdl-core@latest
+npm install https://github.com/xNeuNoRo/distube-ytdlcore
 ```
 
 Make sure you're installing the latest version of `@distube/ytdl-core` to keep up with the latest fixes.
