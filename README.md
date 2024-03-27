@@ -10,7 +10,7 @@ I do not own this project, this is a fork intended to use my changes more easily
 ## Installation
 
 ```bash
-npm install https://github.com/xNeuNoRo/distube-ytdlcore
+npm install https://github.com/xNeuNoRo/distube-ytdlcore#master
 ```
 
 Make sure you're installing the latest version of `@distube/ytdl-core` to keep up with the latest fixes.
